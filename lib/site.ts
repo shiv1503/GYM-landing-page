@@ -27,6 +27,6 @@ export const navLinks = [
 export const stats = [
   { target: 500, suffix: "+", label: "Members" },
   { target: 72, suffix: "+", label: "Weekly Classes" },
-  { target: 15, suffix: "+", label: "Certified Trainers" },
+  { target: 1, label: "Certified Trainer" },
   { target: null, display: "24/7", label: "Access" },
 ];
